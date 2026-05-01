@@ -1,2 +1,3 @@
-# ios18
-Generated landing page: ios18
+# Apple Gift Card
+
+Generated landing page.
